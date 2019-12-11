@@ -1,0 +1,50 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "text": "Nostrud consequat irure ea eiusmod incididunt laboris labore nulla do quis ex. Ut veniam veniam velit occaecat laborum est irure nisi id. Consectetur exercitation nisi sunt eu in ullamco in nostrud enim occaecat laborum eu. Aute deserunt incididunt occaecat commodo in non laborum cupidatat cillum. Consequat nulla minim veniam laboris nisi nostrud sit Lorem velit occaecat irure consequat nostrud ut. Amet non ipsum laboris Lorem ut."
+    },
+    {
+      "id": 2,
+      "text": "Nostrud consequat irure ea eiusmod incididunt laboris labore nulla do quis ex. Ut veniam veniam velit occaecat laborum est irure nisi id. Consectetur exercitation nisi sunt eu in ullamco in nostrud enim occaecat laborum eu. Aute deserunt incididunt occaecat commodo in non laborum cupidatat cillum. Consequat nulla minim veniam laboris nisi nostrud sit Lorem velit occaecat irure consequat nostrud ut. Amet non ipsum laboris Lorem ut."
+    },
+    {
+      "id": 3,
+      "text": "Nostrud consequat irure ea eiusmod incididunt laboris labore nulla do quis ex. Ut veniam veniam velit occaecat laborum est irure nisi id. Consectetur exercitation nisi sunt eu in ullamco in nostrud enim occaecat laborum eu. Aute deserunt incididunt occaecat commodo in non laborum cupidatat cillum. Consequat nulla minim veniam laboris nisi nostrud sit Lorem velit occaecat irure consequat nostrud ut. Amet non ipsum laboris Lorem ut."
+    }
+  ],
+  "dates": [
+    {
+      "id": 1,
+      "link": "https://www.residentadvisor.net/events/1171987",
+      "text": "15.11.2018 / Клуб at Berghain | Panorama Bar | Säule, Berlin"
+    }
+  ],
+  "mixes": [
+    {
+      "id": 1,
+      "link": "https://soundcloud.com/testfm_radio/mfc8-chronic-preview?in=testfm_radio%2Fsets%2Fmfcgn-lisasmirnova&utm_source=soundcloud&utm_campaign=share&utm_medium=facebook&fbclid=IwAR0rJ2hHgPYDprIzmvihyTOtsbg2EaOovz4zbqgeGT5HFOdRHHf-2akjRYk",
+      "text": "Messages From Cologne"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "src": "images/photos/1.JPG",
+      "description": "I was dead. But not so long."
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "link": "https://www.youtube.com/embed/goq4_eMIjVM"
+    }
+  ],
+  "read": [
+    {
+      "id": 1,
+      "link": "https://www.facebook.com/jagervibes/posts/997525910371994",
+      "text": "JagerVibes - Young Blood"
+    }
+  ]
+}
