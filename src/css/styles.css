@@ -197,6 +197,9 @@ img {
 img:first-child {
   margin-top: 77px;
 }
+figure {
+  text-align: center;
+}
 figcaption {
   width: 305px;
   margin-left: 40px;
@@ -271,7 +274,6 @@ iframe:first-child {
     display: block;
     margin: 2rem auto;
     width: 100%;
-    height: auto;
   }
   iframe:first-child {
     margin: 0;
