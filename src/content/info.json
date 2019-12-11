@@ -32,6 +32,26 @@
       "id": 1,
       "src": "images/photos/1.JPG",
       "description": "I was dead. But not so long."
+    },
+    {
+      "id": 2,
+      "src": "images/photos/2.JPG",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "src": "images/photos/3.JPG",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "src": "images/photos/4.JPG",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "src": "images/photos/5.JPG",
+      "description": ""
     }
   ],
   "videos": [
